@@ -16,5 +16,3 @@ app.use((req, res) => {
 
 //server listening
 app.listen(PORT, () => console.log(`server running on port ${PORT}`))
-
-//heroku deployment link : https://boardinfinity-assignment-expre.herokuapp.com/student/studentList

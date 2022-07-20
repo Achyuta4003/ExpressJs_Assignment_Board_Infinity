@@ -15,4 +15,4 @@ router.get('/studentList',(req,res)=>{
     })
 })
 
-module.exports = router
+module.exports = router;
